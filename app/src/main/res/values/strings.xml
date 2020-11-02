@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+        in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+        proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Non diam phasellus
+        vestibulum lorem sed risus ultricies tristique nulla. Mattis rhoncus urna neque viverra justo
+        nec ultrices. Platea dictumst quisque sagittis purus sit amet volutpat consequat mauris. In hac
+        habitasse platea dictumst quisque. Molestie at elementum eu facilisis sed odio. Turpis egestas sed tempus
+        urna. Volutpat maecenas volutpat blandit aliquam etiam. Convallis tellus id interdum velit laoreet id donec ultrices
+        tincidunt. Quis commodo odio aenean sed adipiscing diam. Senectus et netus et malesuada fames ac. Eget aliquet nibh praesent
+        tristique. Morbi tempus iaculis urna id. Mus mauris vitae ultricies leo integer malesuada. Urna molestie at elementum eu
+        facilisis sed odio. Quis vel eros donec ac odio tempor orci dapibus. Sapien faucibus et molestie ac feugiat sed. Ullamcorper
+        morbi tincidunt ornare massa eget egestas purus viverra accumsan. Dignissim cras tincidunt lobortis feugiat vivamus.
+        Velit aliquet sagittis id consectetur purus ut faucibus. Tincidunt eget nullam non nisi est. Est sit amet facilisis magna etiam
+        tempor orci eu lobortis. Egestas erat imperdiet sed euismod. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat.
+        Sit amet consectetur adipiscing elit.</string>
+
+    <string-array name="programming_languages">
+        <item>C++</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>Jquery</item>
+        <item>JavaScript</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+        <item>TypeScript</item>
+        <item>Visual Studio</item>
+    </string-array>
+
+    <string-array name="context">
+        <item>Here is some sample text from my side as the developer of this sample test app to test
+the new features of motion layout and tying. </item>
+        <item>Here is some sample text from my side as the developer of this sample test app to test
+the new features of motion layout and tying. </item>
+        <item>Here is some sample text from my side as the developer of this sample test app to test
+the new features of motion layout and tying. </item>
+        <item>Here is some sample text from my side as the developer of this sample test app to test
+the new features of motion layout and tying. </item>
+        <item>Here is some sample text from my side as the developer of this sample test app to test
+the new features of motion layout and tying. </item>
+        <item>Here is some sample text from my side as the developer of this sample test app to test
+the new features of motion layout and tying. </item>
+        <item>Here is some sample text from my side as the developer of this sample test app to test
+the new features of motion layout and tying. </item>
+        <item>Here is some sample text from my side as the developer of this sample test app to test
+the new features of motion layout and tying. </item>
+        <item>Here is some sample text from my side as the developer of this sample test app to test
+the new features of motion layout and tying.</item>
+        <item>Here is some sample text from my side as the developer of this sample test app to test
+the new features of motion layout and tying. </item>
+        <item>Here is some sample text from my side as the developer of this sample test app to test
+the new features of motion layout and tying. </item>
+    </string-array>
+</resources>
