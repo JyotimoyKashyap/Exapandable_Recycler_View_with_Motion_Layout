@@ -18,16 +18,10 @@
                motion:motionTarget="@+id/button"
                motion:framePosition="50"
                android:alpha="0" />
-           <KeyAttribute
-               motion:motionTarget="@+id/textView2"
-               android:scaleX="0.8" />
-           <KeyAttribute
-               motion:motionTarget="@+id/textView2"
-               motion:framePosition="50"
-               android:scaleY="1.2" />
+
        </KeyFrameSet>
         <OnClick />
-        <OnClick />
+
     </Transition>
 
     <ConstraintSet android:id="@+id/start">
