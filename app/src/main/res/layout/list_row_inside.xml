@@ -4,7 +4,8 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     app:layoutDescription="@xml/list_row_inside_scene"
-    android:clickable="true">
+    android:clickable="true"
+    android:id="@+id/constraintlayout">
 
     <TextView
         android:id="@+id/textView2"
